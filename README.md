@@ -1,9 +1,15 @@
 # List of movies
 
 he Green Knight.
+
 West Side Story. 
-Dune. 
+
+Dune.
+
 Licorice Pizza
+
 Pig
+
 The Mitchells vs the Machines
+
 fast and furious
