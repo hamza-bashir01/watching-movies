@@ -20,13 +20,24 @@ Goal - I want contributors to help me list some movies name.
 
 # List of movies
 
-he Green Knight. West Side Story.  
+he Green Knight. 
+
+West Side Story.  
+
 Dune. 
+
 Licorice Pizza.     
+
 Pig. 
+
 The Mitchells vs the Machines. 
+
 fast and furious. 
+
 the rampage. 
+
 the jungle. 
+
 lucifie. 
+
 dark house. 
