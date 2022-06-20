@@ -16,7 +16,8 @@ Make 10 Pull Request contributions to other projects.
 Merge 10 Pull Requests into your forked Project. 
 
 # Example.
-Goal - I want contributors to help me list some movies name. 
+Goal - I want contributors to help me list some movies name.
+
 
 # List of movies
 
